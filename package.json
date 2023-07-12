@@ -1,0 +1,21 @@
+{
+  "name": "qa-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.code.fluzapp.com/fluzfluzny/qa-tools.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.29.1",
+    "@types/whatwg-fetch": "^0.0.33"
+  },
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
+}
