@@ -1,4 +1,4 @@
-# Fluz_backend-playwright
+## Fluz_backend-playwright
 
 A sample framework based on Page Object Model, Selenium, and TestNG using Java.
 
@@ -13,7 +13,7 @@ ExtentReport
 Log4j
 SimpleJavaMail
 
-# Steps to create test cases:
+## Steps to create test cases:
 Let's say we want to automate the Google search test.
 
 1.
@@ -28,7 +28,7 @@ A page class should typically contain all the elements on the page and correspon
 
 4. Execute the test cases by maven command mvn clean test
 
-# Reporting
+## Reporting
 The framework reports in three ways,> **Initial setup**
 
 1. install Playwright 
